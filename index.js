@@ -20,7 +20,7 @@ return increase
 }
 
 function deepestChild(){
-  let node = document.getElementById('app').querySelectorAll('#grand-node div div div div')
+  let node = document.getElementById('app').querySelectorAll('#grand-node div div div')
 
   return node
 }
